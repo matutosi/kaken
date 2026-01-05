@@ -1,0 +1,21 @@
+delete_merged_file: false
+new_session: true
+language:
+  ui:
+    chapter_name: ["第", "章"] # "Chap. "
+  label: 
+    fig: "図"
+    tab: "表"
+    thm: "コード"
+rmd_files:
+  - "index.md" # ファイル名を指定
+  #   - "memo.md" # non-chap
+  # 
+  #   - "preface.md" # non-chap
+  - "kaken.md" # (PART)
+  - "body.md"
+  #   - "gakusin.md" # (PART)
+  #   - "pddc.md"
+  #   - "koubo.md" # (PART)
+  #   - "recruit.md"
+  #   - "postface.md" # non-chap
