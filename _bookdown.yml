@@ -14,8 +14,8 @@ rmd_files:
   #   - "preface.md" # non-chap
   - "kaken.md" # (PART)
   - "body.md"
-  #   - "gakusin.md" # (PART)
-  #   - "pddc.md"
-  #   - "koubo.md" # (PART)
-  #   - "recruit.md"
+  - "gakusin.md" # (PART)
+  - "pddc.md"
+  - "koubo.md" # (PART)
+  - "recruit.md"
   #   - "postface.md" # non-chap
