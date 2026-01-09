@@ -1,0 +1,6 @@
+---
+title: "審査員に読ませる申請書の書き方 -科研費・学振・教員公募-"
+author: "松村 俊和"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+---
